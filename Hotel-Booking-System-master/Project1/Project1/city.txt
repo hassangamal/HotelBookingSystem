@@ -1,0 +1,9 @@
+1000		cairo		2
+1001		alex		1
+1002		hurgada		1
+1003		gize		3
+1004		sharm		1
+1005		ewewe		0
+1006		eqwe		0
+1007		qwqeqefdv		0
+1008		dd		1
